@@ -2,6 +2,8 @@
 
 > Les nouvelles seront réparties dans diférents fichiers pour qu'ils soient plus accessibles
 
+## Sommaire
+
 Voici 12 nouvelles écrites par les lauréats du Jeune Ecrivain 2021.
 
 Voici leur titre et leur auteur :
@@ -31,3 +33,20 @@ Voici leur titre et leur auteur :
 12. *Ma maman au bout d’une corde ou la raison pour laquelle j’ai cessé d’aller à la pêche*, Adéliane Sauvageau, __page 114__
 
 Vous devez lire chaque nouvelle et compléter le tableau.
+
+## Tableau
+
+| Nouvelles | Résumé bref | Intérêt, originalité, tonalité | Note /5 |
+|-----------|-------------|------------------------------------------|
+| 1         |             |                                          |
+| 2         |             |                                          |
+| 3         |             |                                          |
+| 4         |             |                                          |
+| 5         |             |                                          |
+| 6         |             |                                          |
+| 7         |             |                                          |
+| 8         |             |                                          |
+| 9         |             |                                          |
+| 10        |             |                                          |
+| 11        |             |                                          |
+| 12        |             |                                          |
