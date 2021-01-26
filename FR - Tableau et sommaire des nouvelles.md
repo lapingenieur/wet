@@ -37,12 +37,18 @@ Vous devez lire chaque nouvelle et compléter le tableau.
 ## Tableau
 
 <table>
-	<tl>
+	<tr>
 		<th>Nouvelles</th>
-		</th>Résumé bref</th>
-		</th>Intérêt, originalité, tonalité</th>
-		</th>Note /5</th>
-	</tl>
+		<th>Résumé bref</th>
+		<th>Intérêt, originalité, tonalité</th>
+		<th>Note /5</th>
+	</tr>
+	<tr>
+		<td>Nouvelles</td>
+		<td>Résumé bref</td>
+		<td>Intérêt, originalité, tonalité</td>
+		<td>Note /5</td>
+	</tr>
 </table>
 <!--	----------|-------------|------------------------------------------|
 	1         |             |                                          |
