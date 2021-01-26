@@ -8,29 +8,29 @@ Voici 12 nouvelles écrites par les lauréats du Jeune Ecrivain 2021.
 
 Voici leur titre et leur auteur :
 
-1. *Une Salle des fêtes*, Simon Bizouarne, __page 3__
+1. *Une Salle des fêtes*, Simon Bizouarne, <i>page 3</i>
 
-2. *Parthénogénèse*, Jean Lou David, __page 8__
+2. *Parthénogénèse*, Jean Lou David, <i>page 8</i>
 
-3. *Un rêve anonyme*, Alessandro Dobraje, __page 24__
+3. *Un rêve anonyme*, Alessandro Dobraje, <i>page 24</i>
 
-4. *Quand on est arrivés*, Solène Garnier, __page 41__
+4. *Quand on est arrivés*, Solène Garnier, <i>page 41</i>
 
-5. *Ave César*, Juliette Gueron-gabrielle, __page 55__
+5. *Ave César*, Juliette Gueron-gabrielle, <i>page 55</i>
 
-6. *Autobiographie*, Lisa Hazan, __page 63__
+6. *Autobiographie*, Lisa Hazan, <i>page 63</i>
 
-7. *Manon*, Margot Heymans, __page 72__
+7. *Manon*, Margot Heymans, <i>page 72</i>
 
-8. *Quand est-ce qu’on arrive ?*, Alexandre Meyer, __page 84__
+8. *Quand est-ce qu’on arrive ?*, Alexandre Meyer, <i>page 84</i>
 
-9. *Disparaitre sous la broussaille de l’allée*, Lisiane Rapin, __page 90__
+9. *Disparaitre sous la broussaille de l’allée*, Lisiane Rapin, <i>page 90</i>
 
-10. *Septième Pierre*, Camille Reynaud, __page 96__
+10. *Septième Pierre*, Camille Reynaud, <i>page 96</i>
 
-11. *La couleur de vos ciels*, Marilou Rytz, __page 107__
+11. *La couleur de vos ciels*, Marilou Rytz, <i>page 107</i>
 
-12. *Ma maman au bout d’une corde ou la raison pour laquelle j’ai cessé d’aller à la pêche*, Adéliane Sauvageau, __page 114__
+12. *Ma maman au bout d’une corde ou la raison pour laquelle j’ai cessé d’aller à la pêche*, Adéliane Sauvageau, <i>page 114</i>
 
 Vous devez lire chaque nouvelle et compléter le tableau.
 
