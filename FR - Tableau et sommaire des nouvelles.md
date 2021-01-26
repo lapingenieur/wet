@@ -44,10 +44,40 @@ Vous devez lire chaque nouvelle et compléter le tableau.
 		<th>Note /5</th>
 	</tr>
 	<tr>
-		<td>Nouvelles</td>
-		<td>Résumé bref</td>
-		<td>Intérêt, originalité, tonalité</td>
-		<td>Note /5</td>
+		<th>1</th>
+	</tr>
+	<tr>
+		<th>2</th>
+	</tr>
+	<tr>
+		<th>3</th>
+	</tr>
+	<tr>
+		<th>4</th>
+	</tr>
+	<tr>
+		<th>5</th>
+	</tr>
+	<tr>
+		<th>6</th>
+	</tr>
+	<tr>
+		<th>7</th>
+	</tr>
+	<tr>
+		<th>8</th>
+	</tr>
+	<tr>
+		<th>9</th>
+	</tr>
+	<tr>
+		<th>10</th>
+	</tr>
+	<tr>
+		<th>11</th>
+	</tr>
+	<tr>
+		<th>12</th>
 	</tr>
 </table>
 <!--	----------|-------------|------------------------------------------|
