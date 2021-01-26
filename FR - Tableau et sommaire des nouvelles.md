@@ -36,12 +36,12 @@ Vous devez lire chaque nouvelle et compléter le tableau.
 
 ## Tableau
 
-<table>
+<table width=100%>
 	<tr>
-		<th>Nouvelles</th>
+		<th width=10%>Nouvelles</th>
 		<th width=40%>Résumé bref</th>
 		<th width=40%>Intérêt, originalité, tonalité</th>
-		<th>Note /5</th>
+		<th width=10%>Note /5</th>
 	</tr>
 	<tr>
 		<th>1</th>
