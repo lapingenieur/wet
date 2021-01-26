@@ -1,4 +1,4 @@
-> Sur portable/tablette, il faut peut-être cliquer sur `voir plus...` afin de voir les fichiers du drive
+> Sur portable/tablette, il faut peut-être cliquer sur `view source` afin de voir les fichiers du drive
 
 # Français
 
