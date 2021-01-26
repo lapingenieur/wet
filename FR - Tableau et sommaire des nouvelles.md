@@ -39,9 +39,9 @@ Vous devez lire chaque nouvelle et compléter le tableau.
 <table>
 	<tr>
 		<th>Nouvelles</th>
-		<th>Résumé bref</th>
-		<th>Intérêt, originalité, tonalité</th>
-		<th>Note /5</th>
+		<th width=42%>Résumé bref</th>
+		<th width=40%>Intérêt, originalité, tonalité</th>
+		<th width=18%>Note /5</th>
 	</tr>
 	<tr>
 		<th>1</th>
