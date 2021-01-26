@@ -36,17 +36,25 @@ Vous devez lire chaque nouvelle et compléter le tableau.
 
 ## Tableau
 
-| Nouvelles | Résumé bref | Intérêt, originalité, tonalité | Note /5 |
-|-----------|-------------|------------------------------------------|
-| 1         |             |                                          |
-| 2         |             |                                          |
-| 3         |             |                                          |
-| 4         |             |                                          |
-| 5         |             |                                          |
-| 6         |             |                                          |
-| 7         |             |                                          |
-| 8         |             |                                          |
-| 9         |             |                                          |
-| 10        |             |                                          |
-| 11        |             |                                          |
-| 12        |             |                                          |
+<table>
+	<tl>
+		<th>Nouvelles</th>
+		</th>Résumé bref</th>
+		</th>Intérêt, originalité, tonalité</th>
+		</th>Note /5</th>
+	</tl>
+</table>
+<!--	----------|-------------|------------------------------------------|
+	1         |             |                                          |
+	2         |             |                                          |
+	3         |             |                                          |
+	4         |             |                                          |
+	5         |             |                                          |
+	6         |             |                                          |
+	7         |             |                                          |
+	8         |             |                                          |
+	9         |             |                                          |
+	10        |             |                                          |
+	11        |             |                                          |
+	12        |             |                                          |
+-->
