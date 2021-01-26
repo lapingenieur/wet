@@ -6,6 +6,6 @@
 
 ### Concours de lecture de nouvelles
 
-* Nouvelles : [FR - Recueil de nouvelles](https://github.com/lapingenieur/wet/blob/main/FR\ -\ Recueil\ de\ nouvelles.pdf)
+* Nouvelles : <a href="https://github.com/lapingenieur/wet/blob/main/FR - Recueil de nouvelles.pdf">FR - Recueil de nouvelles</a>
 * Tableau : []()
-* Nouvelle de Maupassant : [Boule de Suif](https://github.com/lapingenieur/wet/blob/main/FR\ -\ Boule\ de\ suif.pdf)
+* Nouvelle de Maupassant : <a href="https://github.com/lapingenieur/wet/blob/main/FR - Boule de suif.pdf">Boule de Suif</a>
